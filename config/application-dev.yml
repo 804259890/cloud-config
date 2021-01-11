@@ -1,2 +1,6 @@
 server.port: 8888
 
+platon:
+  name: alaya
+  url: scan.alaya.network
+
