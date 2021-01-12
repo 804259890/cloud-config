@@ -1,5 +1,3 @@
-server.port: 9999
-
 platon:
   name: alaya
   url: scan.alaya.network
