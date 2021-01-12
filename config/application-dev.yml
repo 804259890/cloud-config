@@ -1,6 +1,6 @@
-server.port: 8888
+server.port: 6666
 
 platon:
-  name: ChenDongming
-  url: www.chendm.com
+  name: CDM
+  url: www.cdm.com
 
